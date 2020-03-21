@@ -1,0 +1,133 @@
+body{
+  margin: 0 ;
+  color: #40514E ;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  color: #66BFBF ;
+  font-size: 3.625rem ;
+  margin-top: 50px  ;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  color: #66BFBF ;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem ;
+  font-weight: bold;
+  padding-bottom: 20px ;
+}
+
+h3{
+  color: #11999E ;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #EAF6F6 13px;
+  border-bottom: none ;
+  width: 15% ;
+  margin: 80px auto;
+}
+
+.top-container{
+  background-color: #E4F9F5 ;
+  position: relative;
+  padding-top: 100px ;
+  margin-bottom: 50px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 90px ;
+  top: 50px ;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+.stu{
+  text-decoration: underline;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+
+}
+
+.intro-paragraph{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px ;
+  line-height: 2;
+}
+
+.paragraph1{
+  text-align: left;
+  line-height: 2 ;
+}
+
+.paragraph2{
+  text-align: left;
+  line-height: 2 ;
+}
+
+.image{
+  width: 25% ;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+
+.btn {
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:53px;
+	line-height:53px;
+width:141px;
+	text-decoration:none;
+	text-align:center;
+}.btn:hover {
+	background-color:#11999e;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me{
+  margin-bottom: 200px ;
+}
+
+#hamdy{
+  border-radius: 50%;
+  height: 20%;
+  width: 20%;
+
+}
